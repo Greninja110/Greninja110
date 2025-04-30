@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Abhijeet Sahoo 👋
 
 ## About Me
 🚀 I'm a [Your Profession/Field] passionate about [Your Interests]
@@ -19,9 +19,9 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Greninja110&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Greninja110&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Featured Projects
 
@@ -42,8 +42,8 @@ Brief description of the project.
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:your.email@example.com)
 
 <!-- Optional section for visitors count -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=Greninja110&color=green)
 
 <!-- Footer -->
 ---
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐️ From Abhijeet Sahoo(https://github.com/Greninja110)
