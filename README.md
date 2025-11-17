@@ -1,11 +1,9 @@
 # Hi there, I'm Abhijeet Sahoo 👋
 
 ## About Me
-🚀 I'm a [Your Profession/Field] passionate about [Your Interests]
-🌱 I'm currently learning [Technologies/Skills you're learning]
-👯 I'm looking to collaborate on [Types of Projects]
-💬 Ask me about [Topics you're knowledgeable about]
-⚡ Fun fact: [Something interesting about yourself]
+🚀 I'm a Aspiring AIML Engineer, Data scientist and Software Engineer, passionate about Robotics and Real life Application of AI and ML.
+🌱 I'm currently learning Deep Leaning , Neural Networks . 
+👯 I'm looking to collaborate on Robotics Related Projects 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
@@ -25,7 +23,7 @@
 
 ## 🚀 Featured Projects
 
-### [Project 1 Name](Link to repo)
+### [media_player]([Link to repo](https://github.com/Greninja110/media_player))
 ![](https://img.shields.io/badge/Category-Web-informational?style=flat&color=2bbc8a)
 
 Brief description of the project.
