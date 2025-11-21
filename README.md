@@ -39,7 +39,7 @@ A Desktop Application, Media player can be used to listen music, download music 
 ![](https://img.shields.io/badge/Category-Web-informational?style=flat&color=2bbc8a)
 
 ### ARCam([link to repo](https://github.com/Greninja110/arcam))
-![](https://img.shields.io/badge/Category-Web-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Category-App-informational?style=flat&color=2bbc8a)
 
 
 ## How to reach me
