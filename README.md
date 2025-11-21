@@ -44,8 +44,8 @@ A Desktop Application, Media player can be used to listen music, download music 
 
 ## How to reach me
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)([Your LinkedIn URL](https://www.linkedin.com/in/abhijeet-sahoo-46151a354/))
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)]([Your Twitter URL](https://x.com/Abhi__253__162))
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)([LinkedIn](https://www.linkedin.com/in/abhijeet-sahoo-46151a354/))
+![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)([Twitter](https://x.com/Abhi__253__162))
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:abhijeetsahoo245@gmail.com)
 
 <!-- Optional section for visitors count -->
