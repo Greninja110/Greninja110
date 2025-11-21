@@ -34,6 +34,9 @@ Brief description of the project.
 ### Sales Force Analyze Dashboard([link to repo](https://github.com/Greninja110/sales_force_1))
 ![](https://img.shields.io/badge/Category-Mobile-informational?style=flat&color=2bbc8a)
 
+### College Attendance System([link to repo](https://github.com/Greninja110/aaaaaaattend))
+![](https://img.shields.io/badge/Category-Mobile-informational?style=flat&color=2bbc8a)
+
 Brief description of the project.
 
 ## 📫 How to reach me
