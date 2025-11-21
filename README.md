@@ -31,7 +31,7 @@ Brief description of the project.
 ### BlockChainCV([link to repo](https://github.com/Greninja110/BlockChainCV))
 ![](https://img.shields.io/badge/Category-Mobile-informational?style=flat&color=2bbc8a)
 
-### Sales Force Analyze Dashboard([link to repo](https://github.com/Greninja110/sales_force_1)
+### Sales Force Analyze Dashboard([link to repo](https://github.com/Greninja110/sales_force_1))
 ![](https://img.shields.io/badge/Category-Mobile-informational?style=flat&color=2bbc8a)
 
 Brief description of the project.
