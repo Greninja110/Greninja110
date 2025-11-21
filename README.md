@@ -3,7 +3,7 @@
 ## About Me
 🚀 I'm a Aspiring AIML Engineer, Data scientist and Software Engineer, passionate about Robotics and Real life Application of AI and ML.
 🌱 I'm currently learning Deep Leaning , Neural Networks . 
-👯 I'm looking to collaborate on Robotics Related Projects 
+👯 I'm looking to collaborate on Robotics Related Projects or AIML Projects .
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
