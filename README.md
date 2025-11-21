@@ -23,12 +23,15 @@
 
 ## 🚀 Featured Projects
 
-### [media_player]([Link to repo](https://github.com/Greninja110/media_player))
+### media_player([Link to repo](https://github.com/Greninja110/media_player))
 ![](https://img.shields.io/badge/Category-Web-informational?style=flat&color=2bbc8a)
 
 Brief description of the project.
 
-### [Project 2 Name](Link to repo)
+### BlockChainCV([link to repo](https://github.com/Greninja110/BlockChainCV))
+![](https://img.shields.io/badge/Category-Mobile-informational?style=flat&color=2bbc8a)
+
+### Sales Force Analyze Dashboard([link to repo](https://github.com/Greninja110/sales_force_1)
 ![](https://img.shields.io/badge/Category-Mobile-informational?style=flat&color=2bbc8a)
 
 Brief description of the project.
