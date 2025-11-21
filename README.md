@@ -1,10 +1,10 @@
 # Hi there, I'm Abhijeet Sahoo 🌐([Link to My Portfolio Website](https://www.abhijeetsahoo.in/))
 
 ## About Me
-I'm a Aspiring AIML Engineer, Data scientist and Software Engineer, passionate about Robotics and Real life Application of AI and ML.
-I'm currently Preparing for GATE examination , for higher studies. 
-I'm looking to collaborate on Robotics Related Projects or AIML Projects.
-I Have done varieties of projects which Includes Web Devlopment to Mobile Devlopment to Desktop Application and of course AIML. 
+- I'm a Aspiring AIML Engineer, Data scientist and Software Engineer, passionate about Robotics and Real life Application of AI and ML.
+- I'm currently Preparing for GATE examination , for higher studies. 
+- I'm looking to collaborate on Robotics Related Projects or AIML Projects.
+- I Have done varieties of projects which Includes Web Devlopment to Mobile Devlopment to Desktop Application and of course AIML. 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
