@@ -33,6 +33,14 @@ jobs:
           pip install requests --quiet
           python generate_lang_chart.py
 
+      - name: Commit language chart
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add metrics.languages.svg
+          git diff --cached --quiet || git commit -m "Update metrics.languages.svg - [Skip GitHub Action]"
+          git push
+
       - name: Contribution calendar
         uses: lowlighter/metrics@latest
         with:
