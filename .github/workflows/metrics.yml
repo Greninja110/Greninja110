@@ -24,7 +24,7 @@ jobs:
           config_display: regular
 
       - name: Language breakdown
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.languages.svg
@@ -33,8 +33,9 @@ jobs:
           commits_authoring: Abhijeet Sahoo, Greninja110, Greninja110@users.noreply.github.com, abhijeetsahoo2452004@gmail.com
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 30
-          plugin_languages_categories: programming, markup
+          plugin_languages_ignored: csv, tsv, json, xml, yaml, toml, text, markdown
+          plugin_languages_analysis_timeout: 60
+          plugin_languages_categories: markup, programming, data
           plugin_languages_limit: 12
           plugin_languages_threshold: 0%
           plugin_languages_details: percentage

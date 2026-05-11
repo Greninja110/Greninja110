@@ -73,9 +73,9 @@
 
 ## AI/ML Projects
 
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top"><img width="9999" height="0">
 
 ### [Greninja — Personal Assistant](https://github.com/Greninja110/Greninja)
 
@@ -84,7 +84,7 @@ _Description coming soon_
 `Languages:` —
 
 </td>
-<td width="50%" valign="top">
+<td valign="top"><img width="9999" height="0">
 
 ### [Object Detection and Recognition](https://github.com/Greninja110/mini-project)
 
@@ -95,7 +95,7 @@ _Description coming soon_
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td valign="top"><img width="9999" height="0">
 
 ### [Local RAG — Local LLM, No API Key](https://github.com/Greninja110/local-RAG)
 
@@ -104,7 +104,7 @@ _Description coming soon_
 `Languages:` —
 
 </td>
-<td width="50%" valign="top">
+<td valign="top"><img width="9999" height="0">
 
 ### [AI Powered Sales Analysis Dashboard](https://github.com/Greninja110/sales_force_analysis)
 
@@ -115,7 +115,7 @@ _Description coming soon_
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td valign="top"><img width="9999" height="0">
 
 ### [Kaggle Playground Competitions](https://github.com/Greninja110/kaggle-playground)
 
@@ -124,7 +124,7 @@ _Description coming soon_
 `Languages:` —
 
 </td>
-<td width="50%" valign="top">
+<td valign="top"><img width="9999" height="0">
 
 ### [AI Chatbot](https://github.com/Greninja110/chatbot)
 
@@ -135,7 +135,7 @@ _Description coming soon_
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td valign="top"><img width="9999" height="0">
 
 ### [LLM Fine Tuning](https://github.com/Greninja110/fine-tuning)
 
@@ -144,7 +144,7 @@ _Description coming soon_
 `Languages:` —
 
 </td>
-<td width="50%" valign="top">&nbsp;</td>
+<td valign="top"><img width="9999" height="0">&nbsp;</td>
 </tr>
 </table>
 
@@ -154,9 +154,9 @@ _Description coming soon_
 
 ### Android
 
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top"><img width="9999" height="0">
 
 ### [EduLocker](https://github.com/Greninja110/EduLocker-App)
 
@@ -165,7 +165,7 @@ _Description coming soon_
 `Languages:` —
 
 </td>
-<td width="50%" valign="top">
+<td valign="top"><img width="9999" height="0">
 
 ### [ARCam](https://github.com/Greninja110/arcam)
 
@@ -179,9 +179,9 @@ _Description coming soon_
 
 ### Blockchain
 
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top"><img width="9999" height="0">
 
 ### [BlockChainCV](https://github.com/Greninja110/BlockChainCV)
 
@@ -190,15 +190,15 @@ _Description coming soon_
 `Languages:` —
 
 </td>
-<td width="50%" valign="top">&nbsp;</td>
+<td valign="top"><img width="9999" height="0">&nbsp;</td>
 </tr>
 </table>
 
 ### QA Automation
 
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top"><img width="9999" height="0">
 
 ### [QA Checklist](https://github.com/Greninja110/QA-Checklist)
 
@@ -207,7 +207,7 @@ _Description coming soon_
 `Languages:` —
 
 </td>
-<td width="50%" valign="top">
+<td valign="top"><img width="9999" height="0">
 
 ### [Automatic SEO](https://github.com/Greninja110/Automatic-SEO)
 
@@ -221,9 +221,9 @@ _Description coming soon_
 
 ### Web
 
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top"><img width="9999" height="0">
 
 ### [College Management System](https://github.com/Greninja110/aaaaaaattend)
 
@@ -232,7 +232,7 @@ _Description coming soon_
 `Languages:` —
 
 </td>
-<td width="50%" valign="top">
+<td valign="top"><img width="9999" height="0">
 
 ### [Portfolio Website](https://github.com/Greninja110/real_website)
 
@@ -246,9 +246,9 @@ _Description coming soon_
 
 ### Hardware + Software
 
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top"><img width="9999" height="0">
 
 ### [CAR — End-to-End Hardware and Software Build](https://github.com/Greninja110/CAR)
 
@@ -257,15 +257,15 @@ _Description coming soon_
 `Languages:` —
 
 </td>
-<td width="50%" valign="top">&nbsp;</td>
+<td valign="top"><img width="9999" height="0">&nbsp;</td>
 </tr>
 </table>
 
 ### Desktop
 
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top"><img width="9999" height="0">
 
 ### [Media Player](https://github.com/Greninja110/media_player)
 
@@ -274,15 +274,15 @@ _Description coming soon_
 `Languages:` —
 
 </td>
-<td width="50%" valign="top">&nbsp;</td>
+<td valign="top"><img width="9999" height="0">&nbsp;</td>
 </tr>
 </table>
 
 ### Freelance
 
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top"><img width="9999" height="0">
 
 ### FlatPartner `Private`
 
@@ -291,7 +291,7 @@ _Description coming soon_
 `Languages:` —
 
 </td>
-<td width="50%" valign="top">&nbsp;</td>
+<td valign="top"><img width="9999" height="0">&nbsp;</td>
 </tr>
 </table>
 
