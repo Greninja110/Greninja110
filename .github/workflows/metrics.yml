@@ -37,7 +37,6 @@ jobs:
           plugin_languages_limit: 12
           plugin_languages_threshold: 0%
           plugin_languages_colors: github
-          plugin_languages_repositories_limit: 0
           config_timezone: Asia/Kolkata
           config_output: svg
 
