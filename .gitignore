@@ -2,5 +2,6 @@
 project.txt
 .gitignore
 *.py
+!generate_lang_chart.py
 .env
 *.txt
