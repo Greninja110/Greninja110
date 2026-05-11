@@ -53,8 +53,7 @@
 
 <div align="center">
 
-<img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" />
-<img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+<img src="metrics.languages.svg" />
 
 </div>
 

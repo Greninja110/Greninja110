@@ -27,12 +27,11 @@ jobs:
           config_display: regular
 
       - name: Language breakdown
-        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
-        with:
-          USERNAME: Greninja110
-          AUTO_PUSH: true
+        run: |
+          pip install requests --quiet
+          python generate_lang_chart.py
 
       - name: Contribution calendar
         uses: lowlighter/metrics@latest
