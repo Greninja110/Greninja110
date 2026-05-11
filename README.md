@@ -73,7 +73,7 @@
 
 ## AI/ML Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -144,8 +144,7 @@ _Description coming soon_
 `Languages:` —
 
 </td>
-<td width="50%" valign="top">
-</td>
+<td width="50%" valign="top">&nbsp;</td>
 </tr>
 </table>
 
@@ -155,7 +154,7 @@ _Description coming soon_
 
 ### Android
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -180,7 +179,7 @@ _Description coming soon_
 
 ### Blockchain
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -191,14 +190,13 @@ _Description coming soon_
 `Languages:` —
 
 </td>
-<td width="50%" valign="top">
-</td>
+<td width="50%" valign="top">&nbsp;</td>
 </tr>
 </table>
 
 ### QA Automation
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -223,7 +221,7 @@ _Description coming soon_
 
 ### Web
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -248,7 +246,7 @@ _Description coming soon_
 
 ### Hardware + Software
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -259,14 +257,13 @@ _Description coming soon_
 `Languages:` —
 
 </td>
-<td width="50%" valign="top">
-</td>
+<td width="50%" valign="top">&nbsp;</td>
 </tr>
 </table>
 
 ### Desktop
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -277,14 +274,13 @@ _Description coming soon_
 `Languages:` —
 
 </td>
-<td width="50%" valign="top">
-</td>
+<td width="50%" valign="top">&nbsp;</td>
 </tr>
 </table>
 
 ### Freelance
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -295,8 +291,7 @@ _Description coming soon_
 `Languages:` —
 
 </td>
-<td width="50%" valign="top">
-</td>
+<td width="50%" valign="top">&nbsp;</td>
 </tr>
 </table>
 
