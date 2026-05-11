@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
 
       - name: Base stats
         uses: lowlighter/metrics@latest
@@ -25,22 +25,7 @@ jobs:
           config_timezone: Asia/Kolkata
           config_output: svg
           config_display: regular
-
-      - name: Language breakdown
-        env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
-        run: |
-          pip install requests --quiet
-          python generate_lang_chart.py
-
-      - name: Commit language chart
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add metrics.languages.svg
-          git diff --cached --quiet || git commit -m "Update metrics.languages.svg - [Skip GitHub Action]"
-          git pull --rebase
-          git push
+          output_action: nothing
 
       - name: Contribution calendar
         uses: lowlighter/metrics@latest
@@ -53,3 +38,19 @@ jobs:
           plugin_isocalendar_duration: full-year
           config_timezone: Asia/Kolkata
           config_output: svg
+          output_action: nothing
+
+      - name: Language breakdown
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: |
+          pip install requests --quiet
+          python generate_lang_chart.py
+
+      - name: Commit all metrics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add metrics.base.svg metrics.isocalendar.svg metrics.languages.svg
+          git diff --cached --quiet || git commit -m "Update metrics - [Skip GitHub Action]"
+          git push
