@@ -5,3 +5,4 @@ project.txt
 !generate_lang_chart.py
 .env
 *.txt
+CLAUDE.md
