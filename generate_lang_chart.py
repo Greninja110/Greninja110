@@ -81,6 +81,13 @@ def aggregate_languages(repos):
             totals[lang] = totals.get(lang, 0) + bytes_count
     return totals
 
+def fmt_bytes(b):
+    if b >= 1_000_000:
+        return f"{b / 1_000_000:.1f} MB"
+    if b >= 1_000:
+        return f"{b / 1_000:.1f} KB"
+    return f"{b} B"
+
 def generate_svg(lang_totals):
     if not lang_totals:
         print("No language data found.")
@@ -90,15 +97,16 @@ def generate_svg(lang_totals):
     sorted_langs = sorted(lang_totals.items(), key=lambda x: x[1], reverse=True)[:12]
     top_total = sum(b for _, b in sorted_langs)
 
-    width = 440
+    width = 480
     bar_height = 8
     row_height = 30
     padding_x = 20
-    padding_top = 50
+    padding_top = 55
     label_col = 130
     bar_start = label_col + 10
-    bar_max_width = width - bar_start - padding_x - 50
-    pct_col = width - padding_x - 5
+    bar_max_width = width - bar_start - padding_x - 110
+    pct_col = width - padding_x - 60
+    size_col = width - padding_x - 5
 
     svg_height = padding_top + len(sorted_langs) * row_height + 20
 
@@ -118,12 +126,15 @@ def generate_svg(lang_totals):
   <circle cx="{padding_x + 6}" cy="{dot_y}" r="5" fill="{color}"/>
   <text x="{padding_x + 16}" y="{dot_y + 4}" font-size="12" fill="#cdd9e5" font-family="monospace">{lang}</text>
   <rect x="{bar_start}" y="{y}" width="{bar_width}" height="{bar_height}" rx="4" fill="{color}" opacity="0.85"/>
-  <text x="{pct_col}" y="{dot_y + 4}" font-size="11" fill="#8b949e" font-family="monospace" text-anchor="end">{pct:.1f}%</text>''')
+  <text x="{pct_col}" y="{dot_y + 4}" font-size="11" fill="#8b949e" font-family="monospace" text-anchor="end">{pct:.1f}%</text>
+  <text x="{size_col}" y="{dot_y + 4}" font-size="11" fill="#444d56" font-family="monospace" text-anchor="end">{fmt_bytes(bytes_count)}</text>''')
 
     svg = f'''<svg width="{width}" height="{svg_height}" xmlns="http://www.w3.org/2000/svg">
   <rect width="{width}" height="{svg_height}" rx="10" fill="#0d1117"/>
-  <text x="{padding_x}" y="28" font-size="14" fill="#00B4D8" font-family="monospace" font-weight="bold">Most Used Languages</text>
-  <text x="{padding_x}" y="42" font-size="10" fill="#8b949e" font-family="monospace">by repository bytes across {len(repos)} repos</text>
+  <text x="{padding_x}" y="26" font-size="14" fill="#00B4D8" font-family="monospace" font-weight="bold">Most Used Languages</text>
+  <text x="{padding_x}" y="40" font-size="10" fill="#8b949e" font-family="monospace">{fmt_bytes(total_bytes)} total · {len(repos)} repos</text>
+  <text x="{pct_col}" y="40" font-size="10" fill="#444d56" font-family="monospace" text-anchor="end">share</text>
+  <text x="{size_col}" y="40" font-size="10" fill="#444d56" font-family="monospace" text-anchor="end">size</text>
 {"".join(rows)}
 </svg>'''
 
