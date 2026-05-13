@@ -88,6 +88,37 @@ def fmt_bytes(b):
         return f"{b / 1_000:.1f} KB"
     return f"{b} B"
 
+def badge_text_width(label):
+    # Verdana Bold at 11px: ~8px per char average for uppercase, min 60px total
+    return max(60, len(label) * 8 + 24)
+
+def generate_lang_badges_svg(lang_totals):
+    sorted_langs = sorted(lang_totals.items(), key=lambda x: x[1], reverse=True)[:7]
+    badge_h = 28
+    gap = 8
+
+    items = [(lang.upper(), badge_text_width(lang.upper())) for lang, _ in sorted_langs]
+    total_width = sum(bw for _, bw in items) + gap * (len(items) - 1)
+
+    parts = []
+    x = 0
+    for label, bw in items:
+        cx = x + bw // 2
+        cy = badge_h // 2 + 4
+        parts.append(f'  <rect x="{x}" y="0" width="{bw}" height="{badge_h}" rx="4" fill="#00B4D8"/>')
+        parts.append(
+            f'  <text x="{cx}" y="{cy}" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" '
+            f'font-weight="bold" font-size="11" fill="white" text-anchor="middle" '
+            f'letter-spacing="0.5">{label}</text>'
+        )
+        x += bw + gap
+
+    return (
+        f'<svg width="{total_width}" height="{badge_h}" xmlns="http://www.w3.org/2000/svg">\n'
+        + '\n'.join(parts)
+        + '\n</svg>\n'
+    )
+
 def generate_svg(lang_totals):
     if not lang_totals:
         print("No language data found.")
@@ -152,3 +183,9 @@ with open("metrics.languages.svg", "w") as f:
     f.write(svg)
 
 print("Saved metrics.languages.svg")
+
+badges_svg = generate_lang_badges_svg(lang_totals)
+with open("tech_stack_langs.svg", "w") as f:
+    f.write(badges_svg)
+
+print("Saved tech_stack_langs.svg")

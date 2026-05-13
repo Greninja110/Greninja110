@@ -24,20 +24,14 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-00B4D8?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-00B4D8?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-00B4D8?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-00B4D8?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-00B4D8?style=for-the-badge&logo=ollama&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-00B4D8?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-00B4D8?style=for-the-badge&logo=django&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-00B4D8?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-00B4D8?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-00B4D8?style=for-the-badge&logo=javascript&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-00B4D8?style=for-the-badge&logo=solidity&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00B4D8?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-00B4D8?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-00B4D8?style=for-the-badge&logo=css3&logoColor=white)
+
+<img src="tech_stack_langs.svg" />
 
 </div>
 
@@ -54,12 +48,6 @@
 <div align="center">
 
 <img src="metrics.languages.svg" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Greninja110&theme=transparent&hide_border=true&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&background=0d1117" />
 
 </div>
 
@@ -190,7 +178,6 @@ _Description coming soon_
 `Languages:` —
 
 </td>
-<td valign="top"><img width="9999" height="0">&nbsp;</td>
 </tr>
 </table>
 
@@ -257,7 +244,6 @@ _Description coming soon_
 `Languages:` —
 
 </td>
-<td valign="top"><img width="9999" height="0">&nbsp;</td>
 </tr>
 </table>
 
@@ -274,7 +260,6 @@ _Description coming soon_
 `Languages:` —
 
 </td>
-<td valign="top"><img width="9999" height="0">&nbsp;</td>
 </tr>
 </table>
 
@@ -291,7 +276,6 @@ _Description coming soon_
 `Languages:` —
 
 </td>
-<td valign="top"><img width="9999" height="0">&nbsp;</td>
 </tr>
 </table>
 

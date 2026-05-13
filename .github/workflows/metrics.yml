@@ -33,7 +33,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.isocalendar.svg
           user: Greninja110
-          base: ""
+          base: activity
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           config_timezone: Asia/Kolkata
@@ -54,6 +54,6 @@ jobs:
           git stash
           git pull --rebase
           git stash pop
-          git add metrics.base.svg metrics.isocalendar.svg metrics.languages.svg
+          git add metrics.base.svg metrics.isocalendar.svg metrics.languages.svg tech_stack_langs.svg
           git diff --cached --quiet || git commit -m "Update metrics - [Skip GitHub Action]"
           git push
