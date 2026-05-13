@@ -6,3 +6,4 @@ project.txt
 .env
 *.txt
 CLAUDE.md
+.claude/

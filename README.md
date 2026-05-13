@@ -114,17 +114,6 @@ _Description coming soon_
 </td>
 <td valign="top"><img width="9999" height="0">
 
-### [AI Chatbot](https://github.com/Greninja110/chatbot)
-
-_Description coming soon_
-
-`Languages:` —
-
-</td>
-</tr>
-<tr>
-<td valign="top"><img width="9999" height="0">
-
 ### [LLM Fine Tuning](https://github.com/Greninja110/fine-tuning)
 
 _Description coming soon_
@@ -132,7 +121,6 @@ _Description coming soon_
 `Languages:` —
 
 </td>
-<td valign="top"><img width="9999" height="0">&nbsp;</td>
 </tr>
 </table>
 
