@@ -2,16 +2,19 @@
   "permissions": {
     "deny": [
       "Read(.env)",
+      "Read(./.env)",
       "Read(.env.*)",
-      "Read(**/.env)",
-      "Read(**/.env.*)",
+      "Read(./.env.*)",
+      "Read(/mnt/d/Projects/github-profile/.env)",
+      "Read(/mnt/d/Projects/github-profile/.env.*)",
       "Write(.env)",
+      "Write(./.env)",
       "Write(.env.*)",
-      "Write(**/.env)",
-      "Write(**/.env.*)",
+      "Write(./.env.*)",
+      "Write(/mnt/d/Projects/github-profile/.env)",
+      "Write(/mnt/d/Projects/github-profile/.env.*)",
       "Bash(cat .env*)",
-      "Bash(cat ./.env*)",
-      "Bash(* .env*)"
+      "Bash(cat ./.env*)"
     ]
   }
 }

@@ -67,18 +67,18 @@
 
 ### [Greninja — Personal Assistant](https://github.com/Greninja110/Greninja)
 
-_Description coming soon_
+Offline Windows voice assistant — wake-word triggered, controls apps, shortcuts, volume, brightness, and UI elements hands-free via a Tauri overlay. No cloud, no API keys.
 
-`Languages:` —
+`Languages:` Python (76%)  ·  HTML (20%)  ·  JavaScript (2%)  ·  Rust (1%)
 
 </td>
 <td valign="top"><img width="9999" height="0">
 
 ### [Object Detection and Recognition](https://github.com/Greninja110/mini-project)
 
-_Description coming soon_
+Real-time YOLOv8 object detection streamed from an Android phone to any browser, GPU-accelerated with FP16, plus an experimental 3D AR furniture overlay via Three.js.
 
-`Languages:` —
+`Languages:` HTML (70%)  ·  Python (28%)  ·  Batchfile (2%)
 
 </td>
 </tr>
@@ -87,18 +87,18 @@ _Description coming soon_
 
 ### [Local RAG — Local LLM, No API Key](https://github.com/Greninja110/local-RAG)
 
-_Description coming soon_
+Privacy-first local RAG desktop app — upload text documents, query them with local LLMs via LM Studio, and get streamed answers with zero cloud dependency.
 
-`Languages:` —
+`Languages:` Python (36%)  ·  JavaScript (31%)  ·  HTML (17%)  ·  CSS (15%)
 
 </td>
 <td valign="top"><img width="9999" height="0">
 
 ### [AI Powered Sales Analysis Dashboard](https://github.com/Greninja110/sales_force_analysis)
 
-_Description coming soon_
+Full-stack sales analytics platform with FastAPI, scikit-learn forecasting, React + Tailwind frontend, and six interactive dashboard views — deployed via a single Docker Compose command.
 
-`Languages:` —
+`Languages:` JavaScript (64%)  ·  Python (34%)  ·  CSS (1%)  ·  Dockerfile (1%)
 
 </td>
 </tr>
@@ -136,18 +136,18 @@ _Description coming soon_
 
 ### [EduLocker](https://github.com/Greninja110/EduLocker-App)
 
-_Description coming soon_
+Digital academic passport — institutions upload verified student documents once; students apply to scholarships with a single tap, all data pre-filled automatically.
 
-`Languages:` —
+`Languages:` Java (100%)
 
 </td>
 <td valign="top"><img width="9999" height="0">
 
 ### [ARCam](https://github.com/Greninja110/arcam)
 
-_Description coming soon_
+Android app that turns your phone into a live MJPEG/RTSP streaming server with six modes, including an ARCore AR-enhanced stream. Built in Kotlin, no relay server needed.
 
-`Languages:` —
+`Languages:` Kotlin (100%)
 
 </td>
 </tr>
@@ -161,9 +161,9 @@ _Description coming soon_
 
 ### [BlockChainCV](https://github.com/Greninja110/BlockChainCV)
 
-_Description coming soon_
+Tamper-proof blockchain-based CV system tracking education, certifications, and work experience on a private network — verifiable from school to career.
 
-`Languages:` —
+`Languages:` JavaScript (78%)  ·  Solidity (21%)  ·  CSS (0%)  ·  HTML (0%)
 
 </td>
 </tr>
@@ -177,18 +177,18 @@ _Description coming soon_
 
 ### [QA Checklist](https://github.com/Greninja110/QA-Checklist)
 
-_Description coming soon_
+Flask web app for structured QA testing — track progress with categorized checklists, inline notes, and a persistent bug history, all stored locally.
 
-`Languages:` —
+`Languages:` Python (29%)  ·  JavaScript (28%)  ·  HTML (23%)  ·  CSS (20%)
 
 </td>
 <td valign="top"><img width="9999" height="0">
 
 ### [Automatic SEO](https://github.com/Greninja110/Automatic-SEO)
 
-_Description coming soon_
+Async SEO audit tool that crawls websites, runs 23 checks, and generates HTML/DOCX reports — available as both a web GUI and a CLI.
 
-`Languages:` —
+`Languages:` Python (76%)  ·  CSS (10%)  ·  JavaScript (9%)  ·  HTML (5%)
 
 </td>
 </tr>
@@ -202,18 +202,18 @@ _Description coming soon_
 
 ### [College Management System](https://github.com/Greninja110/aaaaaaattend)
 
-_Description coming soon_
+Django + PostgreSQL attendance system for engineering colleges with five user roles, timetable scheduling, leave approvals, audit logs, and automated 75% threshold enforcement.
 
-`Languages:` —
+`Languages:` HTML (74%)  ·  Python (25%)  ·  PLpgSQL (1%)
 
 </td>
 <td valign="top"><img width="9999" height="0">
 
 ### [Portfolio Website](https://github.com/Greninja110/real_website)
 
-_Description coming soon_
+Single-file personal portfolio with dual light/dark theming, filterable project gallery, scroll animations, and EmailJS contact form — live at abhijeetsahoo.in.
 
-`Languages:` —
+`Languages:` CSS (44%)  ·  JavaScript (41%)  ·  HTML (15%)
 
 </td>
 </tr>
@@ -227,9 +227,9 @@ _Description coming soon_
 
 ### [CAR — End-to-End Hardware and Software Build](https://github.com/Greninja110/CAR)
 
-_Description coming soon_
+3D-printed RC car with PS5 Bluetooth control, MJPEG live stream, onboard YOLOv8 detection, and sensor-based autonomy — built on Raspberry Pi 5 + Arduino Uno.
 
-`Languages:` —
+`Languages:` Python (94%)  ·  C++ (6%)
 
 </td>
 </tr>
@@ -243,9 +243,9 @@ _Description coming soon_
 
 ### [Media Player](https://github.com/Greninja110/media_player)
 
-_Description coming soon_
+Tauri 2 + Rust desktop media player with libVLC engine, YouTube downloading via yt-dlp, 10-band EQ, Bluetooth management, and Windows SMTC earphone-button support.
 
-`Languages:` —
+`Languages:` JavaScript (41%)  ·  Rust (35%)  ·  CSS (15%)  ·  HTML (9%)
 
 </td>
 </tr>
@@ -259,9 +259,9 @@ _Description coming soon_
 
 ### FlatPartner `Private`
 
-_Description coming soon_
+Full-featured flat/roommate finding platform built as a freelance client project.
 
-`Languages:` —
+`Languages:` JavaScript (73%)  ·  CSS (22%)  ·  HTML (5%)  ·  Shell (0%)
 
 </td>
 </tr>
