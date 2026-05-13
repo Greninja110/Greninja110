@@ -14,8 +14,8 @@
 ## About Me
 
 - Recent graduate with a focused interest in building production-ready AI/ML systems — from local LLMs and RAG pipelines to fine-tuned models
-- I build end-to-end: from CAD design and 3D printing to embedded software and model deployment
-- Projects span AI/ML, Android, Web, Blockchain, QA automation, and hardware — 17 public repositories and counting
+- I build end-to-end: designed and 3D-printed a full RC car chassis, wired motor drivers and sensors, wrote firmware in Arduino C++, and ran YOLOv8 object detection on a Raspberry Pi 5 — all the way from CAD to autonomous obstacle avoidance
+- Projects span AI/ML, Android, Web, Blockchain, QA automation, and hardware — 15+ public project repositories and counting
 - Open to AI/ML engineering roles, research collaborations, and freelance opportunities
 
 ---
