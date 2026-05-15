@@ -53,7 +53,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase
           git add metrics.base.svg metrics.isocalendar.svg metrics.languages.svg tech_stack_langs.svg
           git diff --cached --quiet || git commit -m "Update metrics - [Skip GitHub Action]"
           git push
