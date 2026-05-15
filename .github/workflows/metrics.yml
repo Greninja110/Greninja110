@@ -50,9 +50,7 @@ jobs:
           python generate_lang_chart.py
 
       - name: Commit all metrics
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add metrics.base.svg metrics.isocalendar.svg metrics.languages.svg tech_stack_langs.svg
-          git diff --cached --quiet || git commit -m "Update metrics - [Skip GitHub Action]"
-          git push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update metrics - [Skip GitHub Action]"
+          file_pattern: "metrics.base.svg metrics.isocalendar.svg metrics.languages.svg tech_stack_langs.svg"
