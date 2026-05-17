@@ -1,44 +1,44 @@
 <svg width="480" height="435" xmlns="http://www.w3.org/2000/svg">
   <rect width="480" height="435" rx="10" fill="#0d1117"/>
   <text x="20" y="26" font-size="14" fill="#00B4D8" font-family="monospace" font-weight="bold">Most Used Languages</text>
-  <text x="20" y="40" font-size="10" fill="#8b949e" font-family="monospace">7.4 MB total · 57 repos</text>
+  <text x="20" y="40" font-size="10" fill="#8b949e" font-family="monospace">7.7 MB total · 57 repos</text>
   <text x="400" y="40" font-size="10" fill="#444d56" font-family="monospace" text-anchor="end">share</text>
   <text x="455" y="40" font-size="10" fill="#444d56" font-family="monospace" text-anchor="end">size</text>
 
   <circle cx="26" cy="63.0" r="5" fill="#3572A5"/>
   <text x="36" y="67.0" font-size="12" fill="#cdd9e5" font-family="monospace">Python</text>
-  <rect x="140" y="55" width="81" height="8" rx="4" fill="#3572A5" opacity="0.85"/>
-  <text x="400" y="67.0" font-size="11" fill="#8b949e" font-family="monospace" text-anchor="end">38.9%</text>
+  <rect x="140" y="55" width="78" height="8" rx="4" fill="#3572A5" opacity="0.85"/>
+  <text x="400" y="67.0" font-size="11" fill="#8b949e" font-family="monospace" text-anchor="end">37.6%</text>
   <text x="455" y="67.0" font-size="11" fill="#444d56" font-family="monospace" text-anchor="end">2.9 MB</text>
   <circle cx="26" cy="93.0" r="5" fill="#f1e05a"/>
   <text x="36" y="97.0" font-size="12" fill="#cdd9e5" font-family="monospace">JavaScript</text>
-  <rect x="140" y="85" width="77" height="8" rx="4" fill="#f1e05a" opacity="0.85"/>
-  <text x="400" y="97.0" font-size="11" fill="#8b949e" font-family="monospace" text-anchor="end">36.8%</text>
-  <text x="455" y="97.0" font-size="11" fill="#444d56" font-family="monospace" text-anchor="end">2.7 MB</text>
+  <rect x="140" y="85" width="78" height="8" rx="4" fill="#f1e05a" opacity="0.85"/>
+  <text x="400" y="97.0" font-size="11" fill="#8b949e" font-family="monospace" text-anchor="end">37.3%</text>
+  <text x="455" y="97.0" font-size="11" fill="#444d56" font-family="monospace" text-anchor="end">2.9 MB</text>
   <circle cx="26" cy="123.0" r="5" fill="#A97BFF"/>
   <text x="36" y="127.0" font-size="12" fill="#cdd9e5" font-family="monospace">Kotlin</text>
-  <rect x="140" y="115" width="16" height="8" rx="4" fill="#A97BFF" opacity="0.85"/>
-  <text x="400" y="127.0" font-size="11" fill="#8b949e" font-family="monospace" text-anchor="end">7.8%</text>
+  <rect x="140" y="115" width="15" height="8" rx="4" fill="#A97BFF" opacity="0.85"/>
+  <text x="400" y="127.0" font-size="11" fill="#8b949e" font-family="monospace" text-anchor="end">7.6%</text>
   <text x="455" y="127.0" font-size="11" fill="#444d56" font-family="monospace" text-anchor="end">580.6 KB</text>
   <circle cx="26" cy="153.0" r="5" fill="#b07219"/>
   <text x="36" y="157.0" font-size="12" fill="#cdd9e5" font-family="monospace">Java</text>
   <rect x="140" y="145" width="14" height="8" rx="4" fill="#b07219" opacity="0.85"/>
-  <text x="400" y="157.0" font-size="11" fill="#8b949e" font-family="monospace" text-anchor="end">7.1%</text>
+  <text x="400" y="157.0" font-size="11" fill="#8b949e" font-family="monospace" text-anchor="end">6.8%</text>
   <text x="455" y="157.0" font-size="11" fill="#444d56" font-family="monospace" text-anchor="end">523.1 KB</text>
-  <circle cx="26" cy="183.0" r="5" fill="#4F5D95"/>
-  <text x="36" y="187.0" font-size="12" fill="#cdd9e5" font-family="monospace">PHP</text>
-  <rect x="140" y="175" width="9" height="8" rx="4" fill="#4F5D95" opacity="0.85"/>
-  <text x="400" y="187.0" font-size="11" fill="#8b949e" font-family="monospace" text-anchor="end">4.4%</text>
-  <text x="455" y="187.0" font-size="11" fill="#444d56" font-family="monospace" text-anchor="end">324.3 KB</text>
-  <circle cx="26" cy="213.0" r="5" fill="#dea584"/>
-  <text x="36" y="217.0" font-size="12" fill="#cdd9e5" font-family="monospace">Rust</text>
-  <rect x="140" y="205" width="5" height="8" rx="4" fill="#dea584" opacity="0.85"/>
-  <text x="400" y="217.0" font-size="11" fill="#8b949e" font-family="monospace" text-anchor="end">2.8%</text>
-  <text x="455" y="217.0" font-size="11" fill="#444d56" font-family="monospace" text-anchor="end">211.0 KB</text>
+  <circle cx="26" cy="183.0" r="5" fill="#dea584"/>
+  <text x="36" y="187.0" font-size="12" fill="#cdd9e5" font-family="monospace">Rust</text>
+  <rect x="140" y="175" width="9" height="8" rx="4" fill="#dea584" opacity="0.85"/>
+  <text x="400" y="187.0" font-size="11" fill="#8b949e" font-family="monospace" text-anchor="end">4.3%</text>
+  <text x="455" y="187.0" font-size="11" fill="#444d56" font-family="monospace" text-anchor="end">329.6 KB</text>
+  <circle cx="26" cy="213.0" r="5" fill="#4F5D95"/>
+  <text x="36" y="217.0" font-size="12" fill="#cdd9e5" font-family="monospace">PHP</text>
+  <rect x="140" y="205" width="8" height="8" rx="4" fill="#4F5D95" opacity="0.85"/>
+  <text x="400" y="217.0" font-size="11" fill="#8b949e" font-family="monospace" text-anchor="end">4.2%</text>
+  <text x="455" y="217.0" font-size="11" fill="#444d56" font-family="monospace" text-anchor="end">324.3 KB</text>
   <circle cx="26" cy="243.0" r="5" fill="#AA6746"/>
   <text x="36" y="247.0" font-size="12" fill="#cdd9e5" font-family="monospace">Solidity</text>
   <rect x="140" y="235" width="2" height="8" rx="4" fill="#AA6746" opacity="0.85"/>
-  <text x="400" y="247.0" font-size="11" fill="#8b949e" font-family="monospace" text-anchor="end">1.2%</text>
+  <text x="400" y="247.0" font-size="11" fill="#8b949e" font-family="monospace" text-anchor="end">1.1%</text>
   <text x="455" y="247.0" font-size="11" fill="#444d56" font-family="monospace" text-anchor="end">86.8 KB</text>
   <circle cx="26" cy="273.0" r="5" fill="#00B4D8"/>
   <text x="36" y="277.0" font-size="12" fill="#cdd9e5" font-family="monospace">PowerShell</text>
